@@ -1,0 +1,9 @@
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-07-01T20:01:14.677Z"}
+{"level":"info","message":"Hello again distributed logs","timestamp":"2017-07-01T20:01:14.679Z"}
+{"level":"debug","message":"Now my debug messages are written to console!","timestamp":"2017-07-01T20:01:14.681Z"}
+{"level":"debug","message":"Now my debug messages are written to console!","timestamp":"2017-07-01T20:01:14.684Z"}
+{"level":"info","message":"end process info file!","timestamp":"2017-07-02T17:15:16.553Z"}
+{"level":"info","message":"end process info file!","timestamp":"2017-07-02T17:15:36.816Z"}
+{"level":"info","message":"end process info file!","timestamp":"2017-07-02T17:16:26.956Z"}
+{"level":"info","message":"end process info file!","timestamp":"2017-07-02T17:17:07.893Z"}
+{"level":"info","message":"end process info file!","timestamp":"2017-07-02T17:17:25.807Z"}
